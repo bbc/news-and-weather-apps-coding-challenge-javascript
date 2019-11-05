@@ -59,7 +59,7 @@ E.g.
 ## Example Output Feed
  Given the business rules above and for the example data set provided the expected output feed will be:
  
- https://github.com/neilmca/newsapp-code-challenge-temp/blob/master/expected-output.json
+ https://github.com/bbc/news-and-weather-apps-coding-challenge-javascript/blob/master/expected-output.json
 
   
 ## Data Source APIs
@@ -69,7 +69,7 @@ API that returns a list of news feed items
 
 ```bash
 
-curl -G  https://raw.githubusercontent.com/neilmca/newsapp-code-challenge-temp/master/data-feed.json
+curl -G  https://raw.githubusercontent.com/bbc/news-and-weather-apps-coding-challenge-javascript/master/data-feed.json
 
 ```
 
@@ -82,7 +82,7 @@ API to fetch metadata for video clips.
 
 ```bash
 
-curl -G https://raw.githubusercontent.com/neilmca/newsapp-code-challenge-temp/master/video-meta.json
+curl -G https://raw.githubusercontent.com/bbc/news-and-weather-apps-coding-challenge-javascript/master/video-meta.json
 
 ```
 
