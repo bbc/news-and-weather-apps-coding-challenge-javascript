@@ -1,5 +1,3 @@
-# newsapp-code-challenge-temp
-
 # BBC News and Weather Apps (Javascript) Coding Challenge  
 
 ## Introduction
