@@ -43,7 +43,7 @@ The *video_id* maps to the *id* field in the Video Meta API.
 
 REQ6: The *video_id* present in the Data Feed API should not be present in the output feed. The output feed should include a *video* block containing metadata for the video clip.
 
-REQ7: The *durations_sec* field form the Video Meta API needs to be transformed from seconds into a human readable format as per the example below.
+REQ7: The *duration_secs* field form the Video Meta API needs to be transformed from seconds into a human readable format as per the example below.
 
 E.g. 
 
